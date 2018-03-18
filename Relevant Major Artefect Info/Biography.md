@@ -2,4 +2,4 @@ For Module 3 I wanted to create something that was more personal and informative
 
 This Twine Game titled "Laura Secord: More Than Chocolate" allows players to imagine themselves as a child again enjoying a piece of chocolate...and while taking a bite realizing that it was not the piece that they wanted. This story allows for the player to navigate through different characters while following the story of Laura Secord as she rescues her husband in battle and then makes the 32KM hike to warn British soliders of an American attack at BeaverDams. If Laura Secord had not informed the British of this attack then perhaps the British would not have won and history may look very different.
 
-This game screams, thank goodness for chocolate but more importantly, thank goodness for Laura Secord!
+This game screams, thank goodness for chocolate but more importantly, **thank goodness for Laura Secord!**
