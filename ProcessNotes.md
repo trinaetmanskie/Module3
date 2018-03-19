@@ -70,6 +70,7 @@ I only added the delayed text (here is the code)
 
 
 - but the rest of the text was simply me creating new passages and finding ways to connect them
+- For example, I began with laura's path and each time a new character was introduced that is where their story began (therefore all the other characters were following Laura's timeline not their own) but they could be played too
 
 If I wanted to create a link to a passage without saying the passage name, all I had to do was 
 
