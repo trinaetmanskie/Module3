@@ -70,7 +70,7 @@ I only added the delayed text (here is the code)
 
 
 - but the rest of the text was simply me creating new passages and finding ways to connect them
-- For example, I began with laura's path and each time a new character was introduced that is where their story began (therefore all the other characters were following Laura's timeline not their own) but they could be played too
+- For example, I began with Laura's path and each time a new character was introduced that is where their story began (therefore all the other characters were following Laura's timeline not their own) but they could be played too
 
 If I wanted to create a link to a passage without saying the passage name, all I had to do was 
 
@@ -91,4 +91,5 @@ I don’t know why other texts wouldn’t load but Limelight was great
 - I purposely made sure that only Laura Secord's was in first person and the rest was in second person. I thought that her story was the most imporant and was the central focus. I did want people to explore the other parts of the game which is why I encorporated the options to switch between characters at certain parts.
 - I wanted to try and remain historically accurate but with the lacking of details I tried to also fill in the gaps to make it enjoyable for the player
 - I hope that I can work on this game after and ultimately one day use it for my own resources for tutoring or eventually when I become a teacher on a similiar platform such as this
+- Hard to keep process notes because once I began I was very interested in the game and kept going
 
