@@ -15,9 +15,9 @@ Using video games to explore a historical event, person or object is a way to en
 	Finally, one more difficulty that I had occurred to me while reading T. Mill Kelly’s piece about authenticity. This author suggests the idea “There’s no such thing as originality anyway, just authenticity” (Kelly, 310). This quote really stuck with me because that is entirely what my game was about. I was not creating a new story about Laura Secord nor was I retelling her story in a new way. Rather, I was taking the facts and spreading them out amongst characters. I was not being original because I did not make up this story but I was being authentic because I created a Twine game that had not been created before. 
 
 ***
-# The Practice Stuff
+# The Practical Stuff
 
-**Below I have listed some of the most important code that I used and essential guidelines for recreating the Twine based game.**
+*Below I have listed some of the most important code that I used and essential guidelines for recreating the Twine based game.*
 
 - Open [Webpage](http://twinery.org/)
 - Use Application Online (top right)
@@ -29,13 +29,18 @@ Using video games to explore a historical event, person or object is a way to en
 - At the top where it says “Untitled Passage” delete the text and label this **“Start”**
 - Now below you can double click the passage to edit it 
 - You can write whatever you wish for the first page of your game to say
-- I wrote: 
+
+
+	I wrote: 
  
- **(font:"Limelight")[//It was a warm summer day and I was craving some ice cream...and chocolate. I couldn't decide between Mint Chocolate Chip or Cookie Dough. 
-- 
-- Forget it, I thought and I decided to refresh myself with some chocolate.
-- 
-- [[Look for Chocolate]]//]**
+		(font:"Limelight")[//It was a warm summer day and I was craving some ice cream...and chocolate. I couldn't 		decide between Mint Chocolate Chip or Cookie Dough. 
+
+		Forget it, I thought and I decided to refresh myself with some chocolate.
+
+		[[Look for Chocolate]]//]
+
+
+
 
 Now it is important to note **I CHANGED THE FONTS FOR THIS PAGE**
 - We will worry about this after
